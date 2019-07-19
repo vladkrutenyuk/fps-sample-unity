@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: b72c75a041b03264db5d3fcc48b0f451
+timeCreated: 1523440042
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Cage
+    100002: _Cage_end
+    100004: _ShellsSpawn
+    100006: _ShellsSpawn_end
+    100008: _Trigger
+    100010: _Trigger_end
+    100012: _Weapon
+    100014: _Zatvor
+    100016: _Zatvor_end
+    100018: Armature
+    100020: Biceps.L
+    100022: Biceps.R
+    100024: Camera
+    100026: Fore1.L
+    100028: Fore1.R
+    100030: Fore2.L
+    100032: Fore2.R
+    100034: Fore3.L
+    100036: Fore3.L.001
+    100038: Fore3.L.001_end
+    100040: Fore3.L_end
+    100042: Fore3.R
+    100044: Fore3.R_end
+    100046: Forearm.L
+    100048: Forearm.R
+    100050: Gun
+    100052: Hand.L
+    100054: Hand.R
+    100056: Hands
+    100058: IK.Fore.R
+    100060: IK.Fore.R_end
+    100062: IK.L
+    100064: IK.L_end
+    100066: IK.R
+    100068: IK.R_end
+    100070: IK.Thumb.L
+    100072: IK.Thumb.L_end
+    100074: IK.Thumb.R
+    100076: IK.Thumb.R_end
+    100078: Little.IK.R
+    100080: Little.IK.R_end
+    100082: 'Little1.L '
+    100084: Little1.r
+    100086: Little2.L
+    100088: Little2.R
+    100090: Little3.L
+    100092: Little3.L.001
+    100094: Little3.L.001_end
+    100096: Little3.L_end
+    100098: Little3.R
+    100100: Little3.R_end
+    100102: Middle.IK.R
+    100104: Middle.IK.R_end
+    100106: Middle1.L
+    100108: Middle1.R
+    100110: Middle2.L
+    100112: Middle2.R
+    100114: Middle3.L
+    100116: Middle3.L.001
+    100118: Middle3.L.001_end
+    100120: Middle3.L_end
+    100122: Middle3.R
+    100124: Middle3.R_end
+    100126: Ring.IK.R
+    100128: Ring.IK.R_end
+    100130: Ring1.L
+    100132: Ring1.R
+    100134: Ring2.L
+    100136: Ring2.R
+    100138: Ring3.L
+    100140: Ring3.L.001
+    100142: Ring3.L.001_end
+    100144: Ring3.L_end
+    100146: Ring3.R
+    100148: Ring3.R_end
+    100150: //RootNode
+    100152: Thumb1.L
+    100154: Thumb1.R
+    100156: Thumb2.L
+    100158: Thumb2.R
+    100160: Thumb3.L
+    100162: Thumb3.L_end
+    100164: Thumb3.R
+    100166: Thumb3.R_end
+    400000: _Cage
+    400002: _Cage_end
+    400004: _ShellsSpawn
+    400006: _ShellsSpawn_end
+    400008: _Trigger
+    400010: _Trigger_end
+    400012: _Weapon
+    400014: _Zatvor
+    400016: _Zatvor_end
+    400018: Armature
+    400020: Biceps.L
+    400022: Biceps.R
+    400024: Camera
+    400026: Fore1.L
+    400028: Fore1.R
+    400030: Fore2.L
+    400032: Fore2.R
+    400034: Fore3.L
+    400036: Fore3.L.001
+    400038: Fore3.L.001_end
+    400040: Fore3.L_end
+    400042: Fore3.R
+    400044: Fore3.R_end
+    400046: Forearm.L
+    400048: Forearm.R
+    400050: Gun
+    400052: Hand.L
+    400054: Hand.R
+    400056: Hands
+    400058: IK.Fore.R
+    400060: IK.Fore.R_end
+    400062: IK.L
+    400064: IK.L_end
+    400066: IK.R
+    400068: IK.R_end
+    400070: IK.Thumb.L
+    400072: IK.Thumb.L_end
+    400074: IK.Thumb.R
+    400076: IK.Thumb.R_end
+    400078: Little.IK.R
+    400080: Little.IK.R_end
+    400082: 'Little1.L '
+    400084: Little1.r
+    400086: Little2.L
+    400088: Little2.R
+    400090: Little3.L
+    400092: Little3.L.001
+    400094: Little3.L.001_end
+    400096: Little3.L_end
+    400098: Little3.R
+    400100: Little3.R_end
+    400102: Middle.IK.R
+    400104: Middle.IK.R_end
+    400106: Middle1.L
+    400108: Middle1.R
+    400110: Middle2.L
+    400112: Middle2.R
+    400114: Middle3.L
+    400116: Middle3.L.001
+    400118: Middle3.L.001_end
+    400120: Middle3.L_end
+    400122: Middle3.R
+    400124: Middle3.R_end
+    400126: Ring.IK.R
+    400128: Ring.IK.R_end
+    400130: Ring1.L
+    400132: Ring1.R
+    400134: Ring2.L
+    400136: Ring2.R
+    400138: Ring3.L
+    400140: Ring3.L.001
+    400142: Ring3.L.001_end
+    400144: Ring3.L_end
+    400146: Ring3.R
+    400148: Ring3.R_end
+    400150: //RootNode
+    400152: Thumb1.L
+    400154: Thumb1.R
+    400156: Thumb2.L
+    400158: Thumb2.R
+    400160: Thumb3.L
+    400162: Thumb3.L_end
+    400164: Thumb3.R
+    400166: Thumb3.R_end
+    2000000: Camera
+    2100000: StylizedHands
+    2100002: StylizedCartoonGun
+    4300000: Hands
+    4300002: Gun
+    7400000: Scene
+    9500000: //RootNode
+    13700000: Gun
+    13700002: Hands
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
